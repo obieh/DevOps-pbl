@@ -1,2 +1,2 @@
-# DevOps-project based learnng
+# DevOps-project based learning.
 DevOps Projects.
